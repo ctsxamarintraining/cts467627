@@ -1,0 +1,9 @@
+c:\users\467627\documents\visual studio 2013\Projects\GC_Collect\GC_CollectFeature\bin\Debug\GC_CollectFeature.exe.config
+c:\users\467627\documents\visual studio 2013\Projects\GC_Collect\GC_CollectFeature\obj\Debug\GC_CollectFeature.csprojResolveAssemblyReference.cache
+c:\users\467627\documents\visual studio 2013\Projects\GC_Collect\GC_CollectFeature\obj\Debug\GC_CollectFeature.Form1.resources
+c:\users\467627\documents\visual studio 2013\Projects\GC_Collect\GC_CollectFeature\obj\Debug\GC_CollectFeature.Properties.Resources.resources
+c:\users\467627\documents\visual studio 2013\Projects\GC_Collect\GC_CollectFeature\obj\Debug\GC_CollectFeature.csproj.GenerateResource.Cache
+c:\users\467627\documents\visual studio 2013\Projects\GC_Collect\GC_CollectFeature\bin\Debug\GC_CollectFeature.exe
+c:\users\467627\documents\visual studio 2013\Projects\GC_Collect\GC_CollectFeature\bin\Debug\GC_CollectFeature.pdb
+c:\users\467627\documents\visual studio 2013\Projects\GC_Collect\GC_CollectFeature\obj\Debug\GC_CollectFeature.exe
+c:\users\467627\documents\visual studio 2013\Projects\GC_Collect\GC_CollectFeature\obj\Debug\GC_CollectFeature.pdb
